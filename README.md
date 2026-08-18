@@ -1,4 +1,3 @@
-Yep — here’s a **GitHub-ready `README.md`** you can copy directly into your `README.md` file. I’ve kept the screenshot filenames exactly as `image1.png`, `image2.png`, and `image3.png`.
 
 # 💊 Remibrutinib Clinical Intelligence Dashboard
 
