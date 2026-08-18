@@ -1,5 +1,5 @@
 
-# 💊 Remibrutinib Clinical Intelligence Dashboard
+# 💊 Pharma Clinical Intelligence Dashboard
 
 An end-to-end data engineering and analytics project for collecting, processing, and visualizing **remibrutinib clinical trial and research publication data**.
 
