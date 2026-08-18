@@ -15,15 +15,15 @@ The project uses **ClinicalTrials.gov**, **PubMed**, **SQLite**, **Apache Airflo
 
 ---
 
-### 2. Clinical Trials
+### 2. Apache Airflow
 
-![Clinical Trials](image2.png)
+![Apache AirFlow](image2.png)
 
 ---
 
-### 3. Latest Research Findings
+### 3. Apache AirFlow Dashboard
 
-![Latest Research Findings](image3.png)
+![Apache Airflow Dashboard](image3.png)
 
 ---
 
